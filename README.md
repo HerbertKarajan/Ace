@@ -10,7 +10,7 @@ see example http://ace.jeka.by/
 
 
 Try:
-- git clone git@github.com:bopoda/ace.git
+- git clone https://github.com/HerbertKarajan/Ace
 - open ace/index.html in your desktop or mobile browser
 
 
